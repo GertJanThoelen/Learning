@@ -16,4 +16,3 @@ A collection of minimal learning project starters and reusable repository templa
 - [Alternative license templates](templates/licenses/README.md)
 
 The root [LICENSE](LICENSE) is the MIT license for this repository. The Apache-2.0 and GPL-3.0 files under templates/licenses/ are reference templates only and do not change the repository's license.
-# Learning
